@@ -10,8 +10,10 @@ _{This is a website to practice CSS, HTML and Bootstrap for Epicodus. }_
 
 ## Setup/Installation Requirements
 
-* _[Here]() is the link to the repository.]_
-* _[Here]() is the link to the live.]_
+* _[Here](https://github.com/kellibrooke/vacation) is the link to Kelli's repository.]_
+* _[Here](https://github.com/putman10/vacation) is the link to Ryan's repository.]_
+* _[Here](http://kellibrooke.github.io/vacation) is the link to Kelli's live site.]_
+* _[Here](http://putman10.github.io/vacation) is the link to Ryan's live site.]_
 
 ## Support and contact details
 
